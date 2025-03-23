@@ -26,7 +26,7 @@ A Django-based Library Management System that allows admins to perform CRUD oper
 
 ## Technical Specifications
 
-- **Framework:** Django 5.0
+- **Framework:** Django 5.1
 - **API:** Django REST Framework (DRF)
 - **Database:** MySQL
 - **Authentication:** Token-based authentication for admin endpoints.
