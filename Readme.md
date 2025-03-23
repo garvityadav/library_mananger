@@ -48,7 +48,7 @@ A Django-based Library Management System that allows admins to perform CRUD oper
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/garvityadav/library_mananger.git
    cd library-management-system
    ```
 
