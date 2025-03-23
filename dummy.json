@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Django for Beginners",
+    "author": "William S. Vincent",
+    "isbn": "9781735467227",
+    "publication_year": 2020,
+    "publisher": "Leanpub",
+    "quantity": 10
+  },
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "isbn": "9781593279288",
+    "publication_year": 2019,
+    "publisher": "No Starch Press",
+    "quantity": 5
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "isbn": "9781492056355",
+    "publication_year": 2019,
+    "publisher": "O'Reilly Media",
+    "quantity": 7
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884",
+    "publication_year": 2008,
+    "publisher": "Prentice Hall",
+    "quantity": 3
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "isbn": "9780201616224",
+    "publication_year": 1999,
+    "publisher": "Addison-Wesley",
+    "quantity": 8
+  }
+]
